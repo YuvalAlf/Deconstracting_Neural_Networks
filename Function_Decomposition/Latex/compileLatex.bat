@@ -1,0 +1,2 @@
+pdflatex Bottlenecked_Function_Prediction_Using_NNs.tex
+start Bottlenecked_Function_Prediction_Using_NNs.pdf
