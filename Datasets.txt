@@ -1,0 +1,6 @@
+House Prices:
+	https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+
+Medical cost dataset:
+	https://www.kaggle.com/mirichoi0218/insurance
+
